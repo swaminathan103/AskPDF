@@ -2,6 +2,11 @@
 
 AskPDF is a macOS application that allows you to ask questions and find answers within a PDF file. Please note that AskPDF is currently in beta and is designed to handle simple questions. The accuracy of the answers may vary, and it may not always provide the correct response.
 
+<p float="left">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/253675739-8216cd60-0f69-4fb9-b55a-b1dbfd327b44.png" width="500" height="526" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/53428109/253675737-603a3596-befa-4316-8e9a-32b686829238.png" width="500" height="526" />
+</p>
+
 ## Installation
 
 To use AskPDF, follow these steps:
